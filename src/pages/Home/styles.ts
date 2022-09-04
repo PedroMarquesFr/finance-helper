@@ -7,4 +7,9 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h1``;
-
+export const GraftSection = styled.section`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+`;
